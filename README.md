@@ -1,4 +1,6 @@
 # Circuito RC Passa Altas
+Projeto da disciplina de Sinais e Sistemas (2/2015) na Universidade de Brasília
+
 1. Determine a equação diferencial que relaciona a tensão de entrada com a tensão de saída
 do circuito.
 
